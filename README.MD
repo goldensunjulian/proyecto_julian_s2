@@ -5,7 +5,7 @@ El administrador puede gestionar herramientas y usuarios (Crear, Leer, Editar y 
 El manejo de herramientas son con IDs que se les otorga de forma automática. 
 Los usuarios se manejan por medio de IDs que son la tarjeta de identidad de la persona.
 ## ***Como usarla como administrador :lock:***
-1. Entrar en la cuenta administrador (:closed_lock_with_key::2105)
+1. Entrar en la cuenta administrador (:closed_lock_with_key: :2105)
 1.1. Gestionar Usuario:
 --- 1.1.1.	En esta opcion se puede agregar un usuario (El id sera el equivalente al documento de identidad).
 --- 1.1.2.	En esta opcion puedes ver todas las personas registradas.
@@ -24,3 +24,4 @@ Los usuarios se manejan por medio de IDs que son la tarjeta de identidad de la p
 1. Entra como usuario (El administrador debe registrarte primero. :closed_lock_with_key:=tarjeta de indentidad).
 1.1.	Tomar herramienta: Sirve para tomar una herramienta existente y genera el id prestamo.
 1.2 devolver herramienta:	Sirve para devolver una herramienta tomada siempre y cuando la tomara el mismo usuario.
+
