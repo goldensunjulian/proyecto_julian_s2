@@ -1,0 +1,6 @@
+Hola, en este documento estarán las instrucciones a seguir tanto como usuario como administrador:
+1. Administrador: Para empezar únicamente habrá un administrador o cuenta administradora. La clave de 2105 y por el momento no se puede ajustar o cambiar a otra dentro del mismo programa ejecutable.
+		El administrador podrá administrar usuarios y herramientas, esto incluye, agregar, ver editar y eliminar a estos dos, en herramientas esta la opción de ver prestamos, que muestra el id del préstamo,
+		el id de quien pidió el préstamo, el id de la herramienta con su nombre, la fecha en que se tomo el préstamo y la fecha en el que se devolvió el objeto.
+2.  Usuario: el usuario deberá ingresar con su id al momento de que el administrador lo registre (el id del usuario deberá ser el documento de identidad ya que al ser único es rentable), este podrá retirar herramientas siempre y cuando
+		este disponible, y devolverla SOLO si ese mismo usuario la tomo, de lo contrario no se le permitirá.

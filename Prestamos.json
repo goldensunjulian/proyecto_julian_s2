@@ -1,0 +1,92 @@
+[
+    {
+        "ID": 1,
+        "ID_usuario": 123,
+        "ID_herramienta": 1,
+        "Nombre": "martillo",
+        "Fecha": "2026-02-19",
+        "Estado": "Activo"
+    },
+    {
+        "ID": 2,
+        "ID_usuario": 45,
+        "ID_herramienta": 1,
+        "Nombre": "martillo",
+        "Fecha": "2026-02-20",
+        "Estado": "Finalizado",
+        "Fecha_Devolucion": "2026-02-25"
+    },
+    {
+        "ID": 3,
+        "ID_usuario": 1095,
+        "ID_herramienta": 1,
+        "Nombre": "martillo",
+        "Fecha": "2026-02-25",
+        "Estado": "Finalizado",
+        "Fecha_Devolucion": "2026-02-25"
+    },
+    {
+        "ID": 4,
+        "ID_usuario": 1095,
+        "ID_herramienta": 1,
+        "Nombre": "martillo",
+        "Fecha": "2026-02-25",
+        "Estado": "Activo"
+    },
+    {
+        "ID": 5,
+        "ID_usuario": 1095,
+        "ID_herramienta": 1,
+        "Nombre": "martillo",
+        "Fecha": "2026-02-25",
+        "Estado": "Activo"
+    },
+    {
+        "ID": 6,
+        "ID_usuario": 1095,
+        "ID_herramienta": 1,
+        "Nombre": "martillo",
+        "Fecha": "2026-02-25",
+        "Estado": "Activo"
+    },
+    {
+        "ID": 7,
+        "ID_usuario": 1095,
+        "ID_herramienta": 1,
+        "Nombre": "martillo",
+        "Fecha": "2026-02-25",
+        "Estado": "Activo"
+    },
+    {
+        "ID": 8,
+        "ID_usuario": 1095,
+        "ID_herramienta": 1,
+        "Nombre": "martillo",
+        "Fecha": "2026-02-25",
+        "Estado": "Activo"
+    },
+    {
+        "ID": 9,
+        "ID_usuario": 1095,
+        "ID_herramienta": 1,
+        "Nombre": "martillo",
+        "Fecha": "2026-02-25",
+        "Estado": "Activo"
+    },
+    {
+        "ID": 10,
+        "ID_usuario": 1095,
+        "ID_herramienta": 1,
+        "Nombre": "martillo",
+        "Fecha": "2026-02-25",
+        "Estado": "Activo"
+    },
+    {
+        "ID": 11,
+        "ID_usuario": 1095,
+        "ID_herramienta": 1,
+        "Nombre": "martillo",
+        "Fecha": "2026-02-25",
+        "Estado": "Activo"
+    }
+]

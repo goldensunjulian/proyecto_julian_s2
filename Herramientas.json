@@ -1,0 +1,9 @@
+[
+    {
+        "ID": 1,
+        "Nombre": "martillo",
+        "Cantidad": 1,
+        "Categoria": "Construccion",
+        "Estado": "Libre"
+    }
+]

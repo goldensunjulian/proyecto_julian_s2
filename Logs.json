@@ -1,0 +1,20 @@
+[
+    {
+        "ID": 1,
+        "Accion": "Tomar herramienta",
+        "Fecha y hora": "2026-02-25 11:28:36",
+        "Error": "No podia tomar la herraminta"
+    },
+    {
+        "ID": 2,
+        "Accion": "Devolver herramienta",
+        "Fecha y hora": "2026-02-25 11:28:55",
+        "Error": "No podia devolver la herraminta"
+    },
+    {
+        "ID": 3,
+        "Accion": "Devolver herramienta",
+        "Fecha y hora": "2026-02-25 11:28:58",
+        "Error": "No podia devolver la herraminta"
+    }
+]
