@@ -2,7 +2,7 @@
     {
         "ID": 1,
         "Nombre": "martillo",
-        "Cantidad": 1,
+        "Cantidad": 61,
         "Categoria": "Construccion",
         "Estado": "Libre"
     }
