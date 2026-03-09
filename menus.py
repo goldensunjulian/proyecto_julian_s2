@@ -10,8 +10,8 @@ def MenuPrincipal():
                              1. Entrar como usuario
                              2. Entrar como administrador
                              3. Salir
-        """,1,4)
-            if op==4:
+        """,1,3)
+            if op==3:
                 break
             match op:
                 case 1:
@@ -84,7 +84,7 @@ Que desea administrar hoy.
                              3. Logs.
                              4. Salir
 
-""",1,3)
+""",1,4)
             if op==4:
                 break
             match op:
